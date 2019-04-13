@@ -1,0 +1,10 @@
+"STARTUP.obj",
+".\ctrl.obj",
+".\main.obj",
+".\rc522.obj",
+".\timer.obj",
+".\uart.obj",
+".\key.obj",
+".\lcd12864.obj" 
+TO "STC11_RC522" 
+RAMSIZE(256) 
